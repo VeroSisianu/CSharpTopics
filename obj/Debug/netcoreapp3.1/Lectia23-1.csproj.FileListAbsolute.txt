@@ -1,0 +1,13 @@
+C:\vero\C#\Lectia23-1\bin\Debug\netcoreapp3.1\Lectia23-1.exe
+C:\vero\C#\Lectia23-1\bin\Debug\netcoreapp3.1\Lectia23-1.deps.json
+C:\vero\C#\Lectia23-1\bin\Debug\netcoreapp3.1\Lectia23-1.runtimeconfig.json
+C:\vero\C#\Lectia23-1\bin\Debug\netcoreapp3.1\Lectia23-1.runtimeconfig.dev.json
+C:\vero\C#\Lectia23-1\bin\Debug\netcoreapp3.1\Lectia23-1.dll
+C:\vero\C#\Lectia23-1\bin\Debug\netcoreapp3.1\Lectia23-1.pdb
+C:\vero\C#\Lectia23-1\obj\Debug\netcoreapp3.1\Lectia23-1.csprojAssemblyReference.cache
+C:\vero\C#\Lectia23-1\obj\Debug\netcoreapp3.1\Lectia23-1.AssemblyInfoInputs.cache
+C:\vero\C#\Lectia23-1\obj\Debug\netcoreapp3.1\Lectia23-1.AssemblyInfo.cs
+C:\vero\C#\Lectia23-1\obj\Debug\netcoreapp3.1\Lectia23-1.csproj.CoreCompileInputs.cache
+C:\vero\C#\Lectia23-1\obj\Debug\netcoreapp3.1\Lectia23-1.dll
+C:\vero\C#\Lectia23-1\obj\Debug\netcoreapp3.1\Lectia23-1.pdb
+C:\vero\C#\Lectia23-1\obj\Debug\netcoreapp3.1\Lectia23-1.genruntimeconfig.cache
